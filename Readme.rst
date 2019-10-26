@@ -2,6 +2,18 @@
  Image Process
 ==============
 
+WARNING
+=======
+
+New versions of the plugin are released through PyPi.
+We recommend you to not use this release but use the version which you can
+install using pip:
+
+https://pypi.org/project/pelican-image-process/
+
+Introduction
+============
+
 ``Image Process`` let you automate the processing of images based on their
 class attribute. Use this plugin to minimize the overall page weight
 and to save you a trip to Gimp or Photoshop each time you include an
